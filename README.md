@@ -72,7 +72,7 @@ This project uses two different backend services:
 ## Getting Started
 
 ```bash
-git clone https://github.com/your-username/quiz-mobile.git
+git clone https://github.com/faishalkc/quiz-mobile.git
 
 cd quiz-mobile
 
