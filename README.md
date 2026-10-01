@@ -1,4 +1,4 @@
-# Quiz Mobile App
+# Quiz Mobile (Flutter)
 
 A simple Flutter-based quiz application that combines Firebase Realtime Database with a MySQL authentication system. Users can create an account, log in, answer randomized quiz questions, and view their final score after completing the quiz.
 
